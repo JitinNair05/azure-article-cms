@@ -39,7 +39,9 @@ The Azure App Service provides high availability. This means that an application
 
 ## Workflow
 The Azure App Service provides an easy deployment environment. This means that an application can easily be deployed on Azure. For example, an application can be deployed on Azure App Service. This means that developers can push an application, and Azure takes care of all the underlying infrastructure.
+
 ---
+
 # Decision on Deployment
 The Azure App Service has been chosen as the deployment environment for the Flask-based Article CMS.
 
