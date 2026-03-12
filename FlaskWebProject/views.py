@@ -107,6 +107,7 @@ def authorized():
 
         user = User.query.filter_by(username="admin").first()
         login_user(user)
+        logging.info("admin logged in successfully via Microsoft")
 
         _save_cache(cache)
 
