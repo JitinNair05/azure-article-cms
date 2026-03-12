@@ -67,3 +67,27 @@ All Python dependencies are stored in the requirements.txt file. To install them
     ```
 - Check [here](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/install-microsoft-odbc-driver-sql-server-macos?view=sql-server-ver15) to add SQL Server drivers for Mac.
 - If you get an error when installing the dependencies `AttributeError: module 'collections' has no attribute 'MutableMapping'`, verify that you are on Python version 3.12 as there are known incompatibility issues with 3.10
+
+
+
+---
+
+## Project Screenshots
+
+### Article Created
+![Article](screenshots/article_created.jpg)
+
+### Resource Group
+![Resources](screenshots/resource_group.jpg)
+
+### SQL Tables
+![SQL](screenshots/sql_tables.jpg)
+
+### Blob Endpoint
+![Blob](screenshots/blob_endpoint.jpg)
+
+### Redirect URI
+![Redirect](screenshots/redirect_uri.jpg)
+
+### Login Logs
+![Logs](screenshots/login_logs.jpg)
