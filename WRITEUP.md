@@ -26,21 +26,21 @@ To deploy an application in a Virtual Machine, a full operating system is requir
 
 ---
 
-#Azure App Service
+# Azure App Service
 
-##Cost
+## Cost
 The Azure App Service provides an environment that can host web applications. For a small-scale application like the Article CMS, options like Free and Basic are suitable. Azure provides an environment that can host web applications. This saves on costs since Azure takes care of all the costs involved in running a virtual machine.
 
-##Scalability
+## Scalability
 The Azure App Service provides an environment that can scale up and down. This means that an application can increase in size vertically and horizontally. It can even automate scaling, thus making it easy to increase an application's size.
 
-##Availability
+## Availability
 The Azure App Service provides high availability. This means that an application hosted on Azure can always be available. This is due to the fact that Azure takes care of all server issues, thus making an application hosted on Azure always available.
 
-#Workflow
+## Workflow
 The Azure App Service provides an easy deployment environment. This means that an application can easily be deployed on Azure. For example, an application can be deployed on Azure App Service. This means that developers can push an application, and Azure takes care of all the underlying infrastructure.
 ---
-#Decision on Deployment
+# Decision on Deployment
 The Azure App Service has been chosen as the deployment environment for the Flask-based Article CMS.
 
 The reason why Azure App Service has been chosen:
@@ -49,5 +49,5 @@ The reason why Azure App Service has been chosen:
 - It provides scalability.
 - It provides an easy deployment environment.
 ---
-#When might we change our decision?
+# When might we change our decision?
 There are instances when we might change our decision. For example, if we need more control over our server, we might choose Azure Virtual Machine. This is because Azure Virtual Machine provides an environment that can install additional packages on an operating system.
