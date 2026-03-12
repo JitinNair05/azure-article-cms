@@ -75,19 +75,19 @@ All Python dependencies are stored in the requirements.txt file. To install them
 ## Project Screenshots
 
 ### Article Created
-![Article](screenshots/article_created.jpg)
+![Article](Submitted_Screenshots/article_created.jpg)
 
 ### Resource Group
-![Resources](screenshots/resource_group.jpg)
+![Resources](Submitted_Screenshots/resource_group.jpg)
 
 ### SQL Tables
-![SQL](screenshots/sql_tables.jpg)
+![SQL](Submitted_Screenshots/sql_tables.jpg)
 
 ### Blob Endpoint
-![Blob](screenshots/blob_endpoint.jpg)
+![Blob](Submitted_Screenshots/blob_endpoint.jpg)
 
 ### Redirect URI
-![Redirect](screenshots/redirect_uri.jpg)
+![Redirect](Submitted_Screenshots/redirect_uri.jpg)
 
 ### Login Logs
-![Logs](screenshots/login_logs.jpg)
+![Logs](Submitted_Screenshots/login_logs.jpg)
