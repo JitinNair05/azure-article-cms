@@ -39,7 +39,7 @@ The Azure App Service provides high availability. This means that an application
 
 #Workflow
 The Azure App Service provides an easy deployment environment. This means that an application can easily be deployed on Azure. For example, an application can be deployed on Azure App Service. This means that developers can push an application, and Azure takes care of all the underlying infrastructure.
-
+---
 #Decision on Deployment
 The Azure App Service has been chosen as the deployment environment for the Flask-based Article CMS.
 
@@ -48,6 +48,6 @@ The reason why Azure App Service has been chosen:
 - It provides high availability.
 - It provides scalability.
 - It provides an easy deployment environment.
-
+---
 #When might we change our decision?
 There are instances when we might change our decision. For example, if we need more control over our server, we might choose Azure Virtual Machine. This is because Azure Virtual Machine provides an environment that can install additional packages on an operating system.
